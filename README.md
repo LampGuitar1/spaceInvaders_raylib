@@ -4,10 +4,10 @@
 ## <h2>Table of Contents</h2>
 <ul>
   <li><a href="#features">Features</a></li>
-  <li><a href="#Acknowledgments">Acknowledgments</a></li>
+  <li><a href="#acknowledgments">Acknowledgments</a></li>
   <li><a href="#license">License</a></li>
 </ul>
-
+<img src="resources/Screenshot 2024-12-21 140828.png" alt="Gameplay screenshot">
 
 ## <h2>Features</h2>
 <ul>
